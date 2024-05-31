@@ -17,5 +17,5 @@ Brown spiders can be defeated by jumping on top of them. Red spiders cannot be d
 Large spiders give you a high jump to collect higher coins if you bounce on them.
 Green blocks act as springs to give you a high jump.
 
-The background and music change randomly with each play.
+The background and music change randomly with each play. You can restart if you lose all your lives or collect all the coins.
 
