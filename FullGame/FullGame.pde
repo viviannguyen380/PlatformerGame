@@ -90,7 +90,7 @@ void setup(){
   enemies=new ArrayList<Enemy>();
   coins=new ArrayList<Coin>();
   poisons= new ArrayList<Poison>();
-  createPlatforms("map.csv");
+  createPlatforms("map - map (2).csv");
   view_x = 0;
   view_y = 0;
   returnCheck=false;
